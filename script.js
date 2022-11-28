@@ -86,7 +86,6 @@ function render() {
     drawFace();
     drawEyes();
     drawMasc();
-    drawMouse()
 }
 
 function onResize() {
